@@ -99,3 +99,6 @@
 @end
 
 
+
+@interface SBJSON : SBJsonParser
+@end
